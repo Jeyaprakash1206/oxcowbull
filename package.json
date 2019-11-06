@@ -1,0 +1,19 @@
+{
+  "name": "oxcowbull",
+  "version": "1.0.0",
+  "description": "Find Ox Cow Bull Relationship",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeyaprakash1206/oxcowbull.git"
+  },
+  "author": "Jeyaprakash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeyaprakash1206/oxcowbull/issues"
+  },
+  "homepage": "https://github.com/Jeyaprakash1206/oxcowbull#readme"
+}
