@@ -1,5 +1,8 @@
 const oxcowbull = (name, suggession) => {
-    if (name.trim() == "" || suggession.trim() == "") {
+    if(!(/^[a-z]+$/i.test(name)) || !(/^[a-z]+$/i.test(suggession))){
+        return "Name and Suggession name should contains only letter"
+    }
+    else if (name.trim() == "" || suggession.trim() == "") {
         return "Please enter valid Name and Suggession Name"
     }
     else if (name.trim().length != suggession.trim().length) {
