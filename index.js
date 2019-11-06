@@ -5,7 +5,6 @@ const oxcowbull = (name, suggession) => {
     var bullcount=0;
     var cowcount=0;
     suggArr.forEach((element,i) => {
-        console.log(element,i);
         if(name.indexOf(element)>-1){
             if(name.indexOf(element)==i){
                 cowcount=cowcount+1;
