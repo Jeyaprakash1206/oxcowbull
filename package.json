@@ -1,6 +1,6 @@
 {
   "name": "oxcowbull",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Find Ox Cow Bull Relationship",
   "main": "index.js",
   "scripts": {
