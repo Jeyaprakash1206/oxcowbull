@@ -1,6 +1,6 @@
 #OX COW BULL
 
-Ox Cow Bull is a game playing by childrens
+Ox Cow Bull is a game playing by children
 
 ##Game Explanation
  * one should think one name with the given length
